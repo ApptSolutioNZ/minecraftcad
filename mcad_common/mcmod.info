@@ -1,0 +1,20 @@
+[
+{
+  "modid": "mcad",
+  "name": "Minecraft CAD Package",
+  "description": "The official Minecraft CAD Pack, Create Save and Duplicate Buildings / Structures",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "ApptSolutioNZ"
+  ],
+  "credits": "All of you lovely modders out there!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
